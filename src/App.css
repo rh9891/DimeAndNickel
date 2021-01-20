@@ -40,7 +40,8 @@ h1 {
 }
 
 .balance,
-.subtitle-balance {
+.subtitle-balance,
+.title {
   text-align: center;
 }
 
