@@ -46,7 +46,6 @@ export const AddTransaction = () => {
       <p className="additional-note">
         *Negative amounts are expenses. Positive amounts are income.
       </p>
-      <div id="snackbar">Please add a description and amount.</div>
     </>
   );
 };
