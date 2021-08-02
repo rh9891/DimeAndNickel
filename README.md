@@ -16,36 +16,39 @@
 
 ## Description
 
-Dime and Nickel is a mobile-responsive, budget tracking application.
+Dime and Nickel is a mobile-responsive, budget tracking application. (It is the full-stack MERN version of [Dime and Penny](https://github.com/rh9891/DimeAndPenny).)
 
 ## User Story
 
 ```
-AS A
-I WANT
-SO THAT I
+AS A user
+I WANT to track items I purchase (and their cost) and calculate the amount of money spent over time
+SO THAT I can manage my daily spending efficiently.
 ```
 
 ## Features of the Application
 
 ```
-GIVEN
-WHEN
-THEN
+GIVEN an expense-tracking application
+WHEN I want to add an income
+THEN I insert a positive amount with a description of the transaction and add the transaction.
 
-WHEN
-THEN
+WHEN I want to track an expense
+THEN I insert a negative amount with a description of the transaction and add the transaction.
 
-WHEN
-THEN
+WHEN I add an expense
+THEN the transaction is displayed under "Recent Transactions" and marked in red.
 
+WHEN I add an income
+THEN the transaction is displayed under "Recent Transactions" and marked in green.
+
+WHEN I hover over a listed transaction
+THEN an X will be displayed that can be clicked on to delete the transaction.
 ```
 
 ## Preview of Dime and Nickel
 
-![Dime and Nickel Landing Page]()
-
-![Dime and Nickel Preview]()
+![Dime and Nickel Landing Page](assets/images/dimeAndNickelLandingPage.png)
 
 ## Links
 

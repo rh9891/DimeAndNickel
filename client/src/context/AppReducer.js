@@ -1,4 +1,5 @@
 // Specifies the application's state changes in response to certain actions to our context.
+// eslint-disable-next-line
 export default (state, action) => {
   switch (action.type) {
     case "GET_TRANSACTIONS":
