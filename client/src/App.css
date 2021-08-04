@@ -37,6 +37,7 @@ h1 {
   letter-spacing: 1px;
   margin: 0;
   font-weight: 900;
+  font-size: 3rem;
 }
 
 .balance,
@@ -197,4 +198,19 @@ input[type="text"],
 /* Firefox 18- */
 :-moz-placeholder {
   font-family: "Fraunces", serif;
+}
+
+@media screen and (max-width: 480px),
+  screen and (device-aspect-ratio: 2/3),
+  screen and (device-aspect-ratio: 40/71),
+  screen and (device-aspect-ratio: 375/667),
+  screen and (device-aspect-ratio: 16/9) {
+  h1 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
 }

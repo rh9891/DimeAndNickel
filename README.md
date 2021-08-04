@@ -16,7 +16,7 @@
 
 ## Description
 
-Dime and Nickel is a mobile-responsive, budget tracking application. (It is the full-stack MERN version of [Dime and Penny](https://github.com/rh9891/DimeAndPenny).)
+Dime and Nickel is a mobile-responsive, budget tracking application. (It is the MERN-stack version of [Dime and Penny](https://github.com/rh9891/DimeAndPenny). The application takes the original dynamically updated vanilla javascript project and updates it to a React application and adds a backend API with Express and MongoDB.)
 
 ## User Story
 
@@ -43,7 +43,7 @@ WHEN I add an income
 THEN the transaction is displayed under "Recent Transactions" and marked in green.
 
 WHEN I hover over a listed transaction
-THEN an X will be displayed that can be clicked on to delete the transaction.
+THEN an X will be displayed that can be clicked to delete the transaction.
 ```
 
 ## Preview of Dime and Nickel
