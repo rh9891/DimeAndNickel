@@ -16,7 +16,7 @@
 
 ## Description
 
-Dime and Nickel is a mobile-responsive, budget tracking application. (It is the MERN-stack version of [Dime and Penny](https://github.com/rh9891/DimeAndPenny). The application takes the original dynamically updated vanilla javascript project and updates it to a React application and adds a backend API with Express and MongoDB.)
+Dime and Nickel is a mobile-responsive, budget tracking application. (It is the MERN-stack version of [Dime and Penny](https://github.com/rh9891/DimeAndPenny). The application takes the original dynamically updated vanilla javascript project and updates it to a React application while adding a backend API with Express and MongoDB.)
 
 ## User Story
 
